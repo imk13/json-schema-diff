@@ -4,11 +4,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.jsonschemadiff</groupId>
-    <artifactId>json-schema-diff</artifactId>
+    <groupId>com.imk13.jsonschema</groupId>
+    <artifactId>json-schema-compatibility-diff</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <name>json-schema-diff</name>
+    <name>json-schema-compatibility-diff</name>
     <description>JSON Schema backward compatibility diff checker using networknt/json-schema-validator</description>
 
     <properties>
