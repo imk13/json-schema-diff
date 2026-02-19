@@ -17,7 +17,7 @@ A standalone Java library for detecting differences between two JSON Schemas and
 ```xml
 <dependency>
     <groupId>com.github.jsonschemadiff</groupId>
-    <artifactId>json-schema-diff</artifactId>
+    <artifactId>json-schema-compatibility-diff</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 </dependency>
 ```
